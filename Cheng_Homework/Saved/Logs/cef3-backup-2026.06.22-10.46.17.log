@@ -1,0 +1,49 @@
+[15556:31624:0622/131643.193:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15556:31624:0622/131643.271:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18568:27900:0622/131649.475:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FED77310F3DBFA901C78A90E616D6BCB will be ignored
+[31480:468:0622/131651.461:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31480:31288:0622/131651.475:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31480:31288:0622/131651.475:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31480:31288:0622/131651.476:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15556:4992:0622/131652.785:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15556:31624:0622/131653.780:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15556:31624:0622/131653.780:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15556:31624:0622/131653.780:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15556:31624:0622/131653.780:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15556:4992:0622/131653.783:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27984:24672:0622/131655.109:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27984:3372:0622/131655.136:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27984:3372:0622/131655.136:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27984:3372:0622/131655.136:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27984:24672:0622/131700.592:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31464:29040:0622/131907.460:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15556:31240:0622/133855.347:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/133855.350:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:31240:0622/133900.353:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/133900.370:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:31240:0622/133910.359:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/133910.395:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:31240:0622/133929.603:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/133929.604:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:31240:0622/133934.610:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:5196:0622/133934.623:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:31240:0622/133944.616:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/133944.644:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/134021.026:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:31240:0622/134021.029:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/134026.037:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:31240:0622/134026.040:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:31240:0622/134036.045:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/134036.056:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15556:30736:0622/134047.316:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:25936:0622/134047.316:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25928:21732:0622/134107.693:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[25928:21732:0622/135924.526:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15556:31624:0622/135951.540:ERROR:device_event_log_impl.cc(196)] [13:59:51.388] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[15556:31624:0622/140122.140:ERROR:device_event_log_impl.cc(196)] [14:01:21.848] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[15556:31624:0622/150636.402:ERROR:device_event_log_impl.cc(196)] [15:06:36.260] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[25928:21732:0622/174859.215:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[25928:21732:0622/174859.358:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[25928:21732:0622/180848.424:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[25928:21732:0622/180853.439:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15556:31624:0622/184617.191:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
