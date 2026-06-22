@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AC0716A9-7A32-4751-A284-721104E9A9BA}" SchemaVersion="133">
+	<Containers>
+		<WorkUnit Name="Default Work Unit" ID="{AC0716A9-7A32-4751-A284-721104E9A9BA}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Fire" ID="{3327B354-895D-4DA5-956B-1DB5B1A6B445}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Containers>
+</WwiseDocument>
